@@ -46,3 +46,8 @@ body {
   .navbar-nav  li a:hover {
     color: #1abc9c !important;
   }
+
+#who,#what,#where{
+    padding-top: 70px;
+    padding-bottom: 70px; 
+}
