@@ -48,7 +48,6 @@ body {
   }
 
 #who,#what,#where{
-    padding-top: 70px;
-    padding-bottom: 70px;
-    color: #555555;
+    height: 300px;
+    width: 600px;
 }
