@@ -46,3 +46,8 @@ body {
   .navbar-nav  li a:hover {
     color: #1abc9c !important;
   }
+
+#who,#where,#what{
+ height: 600px;
+ width: 300px;   
+}
